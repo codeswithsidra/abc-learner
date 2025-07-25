@@ -14,7 +14,7 @@ Press any alphabet key (A to Z) — you'll hear the sound (like "Apple") and see
 ---
 
 ## 🚀 Demo
-Live link (after upload):  
+Live link:  
 `https://codeswithsidra.github.io/abc-learner/`
 
 ---
