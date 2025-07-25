@@ -7,9 +7,10 @@ Press any alphabet key (A to Z) — you'll hear the sound (like "Apple") and see
 
 ## 📸 Screenshot
 
-```
-![screenshot](./Screenshot.png)
-```
+
+![ABC Sound and Image Learner Preview](./Screenshot.png)
+
+
 
 ---
 
