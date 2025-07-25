@@ -8,7 +8,7 @@ Press any alphabet key (A to Z) — you'll hear the sound (like "Apple") and see
 ## 📸 Screenshot
 
 ```
-![screenshot](screenshot.png)
+![screenshot](Screenshot.png)
 ```
 
 ---
